@@ -1,0 +1,12 @@
+
+.idea/
+
+/site
+
+phpunit*
+.phpunit.result.cache
+vendor/*
+composer.lock
+
+
+/.serena/
